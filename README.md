@@ -10,4 +10,5 @@ To enhance flexibility, the Movie Ticket Booking System provides the functionali
 The project employs fundamental concepts of C programming, such as data structures, file handling, loops, conditional statements, and user input/output. By implementing these concepts, the system ensures efficient seat management, data storage, and retrieval.
 
 Overall, the Movie Ticket Booking System simplifies and automates the movie ticket booking process, providing a convenient and user-friendly platform for customers. It improves the efficiency of cinema operations, enhances the overall movie-going experience, and eliminates the hassle of manual ticket booking.
+
 IMPORTANT : For running the Program First time , run and first specify the price of movie tickets else 0.00 will be shown in Ticket Price.
